@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Teste de Script</title>
+    <script>window.alert("Testando JS - Primeira atividade")</script>
+</head>
+<body>
+</body>
+</html>
+
+
